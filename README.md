@@ -1,4 +1,4 @@
-# PDI Resources
+# Multi Tech App Repo
 
 This repository is a hands-on learning workspace containing multiple small applications, demos, and exercises built with Java, Spring Boot, .NET, and Node.js. The projects cover common enterprise patterns such as REST APIs, JPA persistence, security, payment processing, Razor Pages, authentication, MongoDB integrations, and modern frontend development.
 
